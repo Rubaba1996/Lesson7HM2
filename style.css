@@ -1,0 +1,84 @@
+.boxes {
+    display: flex;
+}
+.test1 {
+    width: 301px;
+    height: 192px;
+    background-color: #833ae0;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin:-4px 20px 20px -16px;  
+}
+.test2 {
+    width: 301px;
+    height: 192px;
+    background-color: green;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin: -4px 0px 0px -16px;
+    
+}
+.test3 {
+    width: 301px;
+    height: 192px;
+    background-color: black;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin: -4px 0px 0px 0px;
+      
+}
+.test4 {
+    width: 301px;
+    height: 192px;
+    background-color: blue;
+    border-radius: 10px;
+    box-sizing: border-box;
+   margin: 15px 0px 0px -1px;
+}
+
+img {
+    width: 45px;
+    margin: 33px 0px 0px 10px;
+}
+.text {
+    margin: 0px 0px 0px 13px;
+    font-size:23px;
+    color:white;
+    font-family: 'Courier New';
+}
+.test {
+    margin: 0px 0px 16px 13px;
+    font-size: 18px;
+    color:white;
+    font-family: monospace;
+    font-size: 20px;
+}
+.main {
+    margin: 0px 0px 0px 13px;
+    font-size:9px;
+    color:white;
+    font-family: 'Tahoma';
+}
+
+.main1 {
+    margin: 0px 0px 0px 13px;
+    color:white;
+    font-family: 'Tahoma';  
+}
+.visa1 {
+    
+    width: 85px;
+    margin: -100px -120px 22px 200px;
+}
+.visa2 {
+    width: 85px;
+    margin: -100px -120px 22px 200px;
+}
+.master1 {
+    width: 65px;
+    margin: -47px 0px 68px 220px;
+}
+.master2 {
+    width: 65px;
+    margin: -47px 0px 68px 220px;
+}
